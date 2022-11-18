@@ -1,4 +1,4 @@
-# react-portfolio
+# React-Portfolio
 
 # User Story
 AS an employer looking for candidates with experience building single-page applications I want to view a potential employee's deployed React portfolio of work samples so that 
